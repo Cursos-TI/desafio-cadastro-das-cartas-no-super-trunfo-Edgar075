@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main(){
-     printf("Desafio cartas super trunfo!\n");
 
-     gjggug
+     printf("Desafio Super Trunfo!\n");
+}
+
 
           
      
