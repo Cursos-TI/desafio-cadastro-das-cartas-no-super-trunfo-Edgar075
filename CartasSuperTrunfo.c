@@ -3,7 +3,9 @@
 int main(){
      printf("Desafio cartas super trunfo!\n");
 
-     
+     gjggug
+
+          
      
 
 }
